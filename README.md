@@ -1,2 +1,2 @@
 # lifegame
-![](lifegamepng.gif.gif)
+![](lifegamepng.gif)
